@@ -1,0 +1,53 @@
+.col1{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+    
+}
+.col2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+
+}
+
+.col3{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+
+}
+
+@media only screen and (max-width: 992px){
+    .col1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+          
+      }
+    .col2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+      
+    
+    }
+    .OuterGrid{
+        
+       
+    }
+
+}
+@media only screen and (max-width: 960px){
+    .col3{
+        /* display: flex; */
+        /* justify-content: center; */
+        padding: 1.5rem 3rem;
+    
+    }
+    
+
+}

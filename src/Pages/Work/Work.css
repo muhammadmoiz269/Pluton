@@ -1,0 +1,10 @@
+.work{
+    height: 110vh;
+    width: 100%;
+    
+    background: linear-gradient(rgba(13,45,62,.8),rgba(13,45,62,.8)),url("../../Images/about.jpg");
+
+    /* background: #333 url("../../Images/gradient-navy-blue-digital-grid-wallpaper.jpg") center center no-repeat fixed; */
+    background-size: 100% 100%, cover;
+    
+}

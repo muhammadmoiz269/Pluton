@@ -1,0 +1,12 @@
+.OuterContainer{
+    width: 76%;
+    padding-left: 8rem;
+}
+
+@media only screen and (max-width: 1016px)
+{
+    .OuterContainer{
+        width: 76%;
+        padding-left: 4rem;
+    }
+}

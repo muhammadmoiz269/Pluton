@@ -1,0 +1,13 @@
+.particles-js-canvas-el{
+    /* position: absolute; */
+}
+.particles-js{
+    position: absolute; 
+    left: 0;
+    top: 30%; 
+    right: 0; 
+
+   
+}
+
+
